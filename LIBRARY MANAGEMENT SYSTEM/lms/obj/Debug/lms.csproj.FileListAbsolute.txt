@@ -1,0 +1,43 @@
+C:\Users\ASUS\Desktop\C sharp\lms\lms\bin\Debug\lms.exe.config
+C:\Users\ASUS\Desktop\C sharp\lms\lms\bin\Debug\lms.exe
+C:\Users\ASUS\Desktop\C sharp\lms\lms\bin\Debug\lms.pdb
+C:\Users\ASUS\Desktop\C sharp\lms\lms\obj\Debug\lms.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\C sharp\lms\lms\obj\Debug\lms.Properties.Resources.resources
+C:\Users\ASUS\Desktop\C sharp\lms\lms\obj\Debug\lms.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\C sharp\lms\lms\obj\Debug\lms.exe
+C:\Users\ASUS\Desktop\C sharp\lms\lms\obj\Debug\lms.pdb
+C:\Users\ASUS\Desktop\C sharp\lms\lms\obj\Debug\lms.login.resources
+C:\Users\ASUS\Desktop\C sharp\lms\lms\obj\Debug\lms.Home.resources
+C:\Users\ASUS\Desktop\C sharp\lms\lms\bin\Debug\MySql.Data.dll
+C:\Users\ASUS\Desktop\C sharp\lms\lms\obj\Debug\lms.Add_books.resources
+C:\Users\ASUS\Desktop\C sharp\lms\lms\obj\Debug\lms.All_books.resources
+C:\Users\ASUS\Desktop\C sharp\lms\lms\obj\Debug\lms.Add_students.resources
+C:\Users\ASUS\Desktop\C sharp\lms\lms\obj\Debug\lms.Students_Info.resources
+C:\Users\ASUS\Desktop\C sharp\lms\lms\obj\Debug\lms.borrow_books.resources
+C:\Users\ASUS\Desktop\C sharp\lms\lms\obj\Debug\lms.return_books.resources
+C:\Users\ASUS\Desktop\C sharp\lms\lms\obj\Debug\lms.Fines.resources
+E:\C sharp\lms\lms\bin\Debug\lms.exe.config
+E:\C sharp\lms\lms\obj\Debug\lms.exe
+E:\C sharp\lms\lms\obj\Debug\lms.pdb
+E:\C sharp\lms\lms\bin\Debug\lms.exe
+E:\C sharp\lms\lms\bin\Debug\lms.pdb
+E:\C sharp\lms\lms\bin\Debug\MySql.Data.dll
+E:\C sharp\lms\lms\obj\Debug\lms.csprojResolveAssemblyReference.cache
+E:\C sharp\lms\lms\obj\Debug\lms.Add_books.resources
+E:\C sharp\lms\lms\obj\Debug\lms.Add_students.resources
+E:\C sharp\lms\lms\obj\Debug\lms.All_books.resources
+E:\C sharp\lms\lms\obj\Debug\lms.borrow_books.resources
+E:\C sharp\lms\lms\obj\Debug\lms.Fines.resources
+E:\C sharp\lms\lms\obj\Debug\lms.intro.resources
+E:\C sharp\lms\lms\obj\Debug\lms.Home.resources
+E:\C sharp\lms\lms\obj\Debug\lms.Properties.Resources.resources
+E:\C sharp\lms\lms\obj\Debug\lms.return_books.resources
+E:\C sharp\lms\lms\obj\Debug\lms.Students_Info.resources
+E:\C sharp\lms\lms\obj\Debug\lms.csproj.GenerateResource.Cache
+E:\C sharp\lms\lms\obj\Debug\lms.admin_login.resources
+E:\C sharp\lms\lms\obj\Debug\lms.student_login.resources
+E:\C sharp\lms\lms\obj\Debug\lms.student_home.resources
+E:\C sharp\lms\lms\obj\Debug\lms.fines_std.resources
+E:\C sharp\LIBRARY MANAGEMENT SYSTEM\lms\bin\Debug\lms.exe.config
+E:\C sharp\LIBRARY MANAGEMENT SYSTEM\lms\obj\Debug\lms.exe
+E:\C sharp\LIBRARY MANAGEMENT SYSTEM\lms\obj\Debug\lms.pdb
